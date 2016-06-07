@@ -1,0 +1,6 @@
+{
+  "name": "dateformat",
+  "main": "lib/dateformat.d.ts",
+  "homepage": "https://github.com/zaytsevvla/typed-dateformat",
+  "version": "1.0.0"
+}
